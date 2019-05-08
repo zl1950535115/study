@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="https://jasonandjay.com/1609B/Team3/zl/image/666.png" alt="logo">
+  <img width="280" src="http://img3.imgtn.bdimg.com/it/u=1483563184,2639860414&fm=27&gp=0.jpg" alt="logo">
 </p>
 
 ## Target
